@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![github-user-contribution](https://github.com/user-attachments/assets/1e9cdd07-a644-4dac-9398-7b6d3900de88)
+
+
 <!--
 **danpe/danpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
